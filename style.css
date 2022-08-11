@@ -1,0 +1,29 @@
+
+h1{
+    font-size: 50px;
+text-align: center;
+margin-top: 100px; 
+color:black;
+}
+
+div{
+    text-align: center;
+    font-Family:Cursive;
+    color:rgb(0, 0, 0)
+}
+
+#country{
+   margin-top: 20px;
+   
+}
+
+#name {
+    border-radius: 4px;
+    margin-right: 10px;
+    box-shadow: 0 4px 48px 0 rgb(0 0 0 /20%);
+}
+body {
+    background-image: url("bg-image.webp"), url("paper.gif");
+    background-repeat: no-repeat, repeat;
+    background-color: #cccccc;
+  }
